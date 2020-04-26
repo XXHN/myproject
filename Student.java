@@ -15,6 +15,6 @@ public class Student implements Serializable{
 	}
 	
 	public void printInfo(){
-		System.out.println(name+","+age);
+		System.out.println(name+","+age);   //¥Ú”°∑Ω∑®
 	}
 }
